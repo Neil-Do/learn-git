@@ -1,1 +1,4 @@
 another
+nice nice2
+nice\n nice2
+nice'\n' nice2
